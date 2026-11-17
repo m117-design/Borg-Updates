@@ -1,0 +1,48 @@
+BORG SOFTWARE LICENSE
+Copyright © 2026 BORG. All rights reserved.
+
+BORG and its original source code, application design, user interface, original
+documentation, and original assets are proprietary works of the BORG project
+owner, except for components expressly identified as third-party materials.
+
+PERMISSION TO USE THE OFFICIAL BORG APPLICATION
+The BORG project owner grants the recipient of an unmodified, officially
+published BORG application a limited, personal, non-exclusive,
+non-transferable and revocable license to install and use that application
+for lawful purposes on devices controlled by the recipient.
+
+No ownership of BORG is transferred. Unless the BORG project owner gives
+separate written permission, the recipient may not:
+- publish, sell, sublicense, rent, lease or commercially redistribute BORG;
+- redistribute modified, repackaged or unofficial builds of BORG;
+- copy, adapt, translate or create derivative works from BORG proprietary
+  source code, artwork, interface assets or documentation;
+- remove or obscure BORG copyright, trademark or proprietary notices;
+- use BORG branding in a way that suggests an official release or endorsement.
+
+The above restrictions apply only to BORG-owned materials. They do not
+override rights granted by the separate licenses of third-party components.
+Those components remain governed by their own license terms and notices.
+Where a third-party license grants rights that cannot lawfully be restricted
+by this document, that third-party license controls for the relevant
+component.
+
+BORG is provided subject to applicable law. Nothing in this document limits
+rights that cannot legally be excluded, including applicable statutory
+consumer rights, interoperability exceptions or other mandatory exceptions.
+
+The BORG project owner retains all rights not expressly granted above.
+For permissions beyond this license, contact the BORG project owner through
+the official BORG GitHub project.
+
+This license does not grant rights to any separately downloaded AI model,
+model weights, datasets, voices, plugins, firmware, or other external assets.
+Each such item is subject to its own license and terms.
+
+DISCLAIMER
+To the maximum extent permitted by applicable law, BORG is provided "as is",
+without warranties of any kind. The project owner is not liable for indirect
+or consequential loss arising from use of the application, except where
+liability cannot lawfully be excluded.
+
+This is a proprietary software license, not an open-source license.
